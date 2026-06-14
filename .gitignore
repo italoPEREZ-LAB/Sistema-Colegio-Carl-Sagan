@@ -1,0 +1,8 @@
+.idea/
+target/
+node_modules/
+.angular/
+.settings/
+.classpath
+.project
+.factorypath
